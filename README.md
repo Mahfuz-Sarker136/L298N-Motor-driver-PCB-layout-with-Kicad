@@ -1,8 +1,12 @@
+
 # L298N-Motor-driver-PCB-layout-with-Kicad
 A custom, dual-layer L298N Motor Driver PCB module optimized for Robotics,Arduino or ESP-32 project
 # Custom L298N Motor Driver PCB Module with 5V Regulator
 
 Alhamdulillah, I have completed the design and layout of this custom, high-current 2-layer Motor Driver PCB. This module is specifically optimized for robotics, line-follower robotics applications where robust power management and noise reduction are critical.
+
+<img width="769" height="618" alt="Front" src="https://github.com/user-attachments/assets/7d5aae85-dfc1-4dc4-9a64-ffe87d5741ef" />
+<img width="769" height="618" alt="Back" src="https://github.com/user-attachments/assets/b0d9ad0d-d857-45f7-b49b-fd4aa77e10b6" />
 
 ## 🚀 Key Features & Specifications
 
