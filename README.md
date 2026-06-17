@@ -18,14 +18,5 @@ Alhamdulillah, I have completed the design and layout of this custom, high-curre
 * **EDA Software:** KiCad 9.0
 * **Manufacturing Standards:** Fully compliant with 2-layer PCB design rules (DRC cleared), customized thermal reliefs for safe soldering, and optimal trace clearance settings.
 
-## 📂 Repository Structure
-
-* `/Gerber` : Contains production-ready Gerber and Drill files for manufacturing (e.g., JLCPCB).
-* `*.kicad_sch` : Complete schematic design file.
-* `*.kicad_pcb` : Hardware layout and 2-layer trace routing file.
-* `*.kicad_pro` : Main KiCad project management file.
-*    Schematic
-*    Images
-
 ---
 *Feel free to explore the design files, fork this repository, or reach out if you have any feedback or questions regarding the hardware architecture!*
